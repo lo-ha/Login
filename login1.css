@@ -1,0 +1,81 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans', sans-serif;
+    background-color: wheat;
+}
+label,input,a
+{
+    display: block;
+    /* margin-bottom: 10px; */
+}
+#main
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+form
+{
+    background-color: white;
+    width: 25%;
+    border-radius: 5px;
+    padding: 20px;
+    color: black;
+}
+label
+{
+    font-size: 20px;
+}
+input
+{
+    width: 90%;
+    height: 30px;
+    /* border: none; */
+    border-radius: 5px;
+    padding-left: 20px;
+
+}
+a
+{
+    text-decoration: none;
+    color: blue;
+}
+button
+{
+    width: 25%;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: bisque;
+    color: black;
+    font-size: 15px;
+}
+#for
+{
+    text-align: right;
+    font-size: 12px;
+}
+#email
+{
+    padding: 0px 0px 10px 0px;
+}
+#pass
+{
+    padding: 0px 0px 10px 0px;
+} 
+p
+{
+    font-size: 15px;
+}
+h3
+{
+    text-align: center;
+}
+#forgot
+{
+    display: inline;
+    
+}
